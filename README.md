@@ -1,0 +1,2 @@
+# RECO
+Pattern recognition software.
